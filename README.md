@@ -3,7 +3,7 @@ I am a STUDENT!<br>
 
 
 ## 🌐 Socials:
-(https://instagram.com/Shankar_mali427) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shankar Mali ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](mailto:shankar427mali@gmail.com) 
+(https://instagram.com/Shankar_mali427) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shankar Mali )
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
